@@ -1,0 +1,14 @@
+{
+  "verbose": true,
+  "ignore": [
+    "node_modules",
+    "logs",
+    "玩偶姐姐"
+  ],
+  "watch": [
+    "src",
+    "main.js"
+  ],
+  "ext": "js,json",
+  "delay": 500
+}
